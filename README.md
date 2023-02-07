@@ -1,0 +1,2 @@
+# Algoritma-devleri
+sorular yapıldı
