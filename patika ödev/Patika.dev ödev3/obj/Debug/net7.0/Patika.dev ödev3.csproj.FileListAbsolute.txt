@@ -1,0 +1,15 @@
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\bin\Debug\net7.0\Patika.dev ödev3.exe
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\bin\Debug\net7.0\Patika.dev ödev3.deps.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\bin\Debug\net7.0\Patika.dev ödev3.runtimeconfig.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\bin\Debug\net7.0\Patika.dev ödev3.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\bin\Debug\net7.0\Patika.dev ödev3.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\refint\Patika.dev ödev3.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\Patika.dev ödev3.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\patika ödev\Patika.dev ödev3\obj\Debug\net7.0\ref\Patika.dev ödev3.dll
